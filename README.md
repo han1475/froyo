@@ -1,2 +1,2 @@
 # froyo
-enterprise mini framework with Node.js &amp; Koa
+A framework base on Koa with TypeScript
